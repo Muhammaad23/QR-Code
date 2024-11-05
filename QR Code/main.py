@@ -1,6 +1,6 @@
 import pyqrcode
 
-channel_url = 'https://www.youtube.com/shorts/xB-O_-PyWic'
+channel_url = 'https://github.com/Muhammaad23'
 
 url = pyqrcode.create(channel_url)
 
